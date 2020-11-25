@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap');
+
+body{
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+	font-family: 'Open Sans', sans-serif; 
+}
+.container{
+	margin: 0px auto 0px;
+}
+.first-list{
+	width: 1220px;
+	height: 420px;
+}
+.second-list{
+	width: 1220px;
+	height: 420px;
+	background: black;
+}
+.thrid-list{
+	width: 1220px;
+	height: 420px;
+}
